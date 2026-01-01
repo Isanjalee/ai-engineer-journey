@@ -228,6 +228,7 @@ Verification command:
 ```bash
 git --version
 
+
 ### Git Integration Inside VS Code
 
 Steps:
