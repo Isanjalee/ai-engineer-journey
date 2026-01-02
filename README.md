@@ -78,4 +78,6 @@ By the end of this journey, this repository will contain:
 
 ## ✨ Status
 
-🚀 **Journey started — Day 01 completed**
+🚀 **Journey started**  
+✅ **Day 01 completed — Environment setup & tooling**  
+✅ **Day 02 completed — Python fundamentals & file I/O**
