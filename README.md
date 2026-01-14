@@ -81,3 +81,4 @@ By the end of this journey, this repository will contain:
 🚀 **Journey started**  
 ✅ **Day 01 completed — Environment setup & tooling**  
 ✅ **Day 02 completed — Python fundamentals & file I/O**
+✅ **Day 03 completed — JSON & API integration**
