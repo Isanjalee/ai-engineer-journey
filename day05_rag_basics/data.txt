@@ -1,0 +1,5 @@
+Python is a programming language.
+AI engineers build intelligent systems.
+RAG combines search with generation.
+Agents use tools to make decisions.
+Git tracks code changes.
