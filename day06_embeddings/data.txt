@@ -1,0 +1,5 @@
+Python is a programming language used in AI.
+AI engineers build intelligent systems.
+RAG combines retrieval with generation.
+Agents make decisions using tools and logic.
+Embeddings convert text into vectors.
