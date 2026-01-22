@@ -82,4 +82,6 @@ By the end of this journey, this repository will contain:
 ✅ Day 01 completed — Environment setup & tooling  
 ✅ Day 02 completed — Python fundamentals & file I/O  
 ✅ Day 03 completed — JSON & API integration  
-✅ Day 04 completed — Error handling & agent logic
+✅ Day 04 completed — Error handling & agent logic  
+✅ Day 05 completed — RAG basics (retrieval before generation)  
+✅ Day 06 completed — Vector embeddings & semantic search
