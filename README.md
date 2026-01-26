@@ -84,4 +84,6 @@ By the end of this journey, this repository will contain:
 ✅ Day 03 completed — JSON & API integration  
 ✅ Day 04 completed — Error handling & agent logic  
 ✅ Day 05 completed — RAG basics (retrieval before generation)  
-✅ Day 06 completed — Vector embeddings & semantic search
+✅ Day 06 completed — Vector embeddings & semantic search  
+✅ Day 07 completed — LLM + RAG (AI assistant architecture)
+
