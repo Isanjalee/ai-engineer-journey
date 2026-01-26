@@ -1,0 +1,5 @@
+RAG stands for Retrieval-Augmented Generation.
+AI agents retrieve information before answering.
+Embeddings help find meaning, not exact words.
+LLM stands for Large Language Model and is a type of AI model used for text generation.
+Python is commonly used to build AI systems.
